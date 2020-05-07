@@ -1,0 +1,20 @@
+﻿{
+  "host": "127.0.0.1",
+  "port": 27017,
+  "db": "torrents",
+  "user": "",
+  "pwd": "",
+  "threadnum": 4,
+  "server": "http://www.ac168.info/bt/",
+  "target": "http://www.ac168.info/bt/thread.php?fid=4&page={0}",
+  "tor_server": "http://www.jandown.com/fetch.php",
+  "save_type": "db",
+  "path": "G:\\迅雷下载\\Torrents\\",
+  "list_identify": "class",
+  "list_type": "tr",
+  "list_identify_text": "tr3 t_one",
+  "list_element": "dd",
+  "content_identify": "class",
+  "content_type": "div",
+  "content_identify_text": "tpc_content"
+}
